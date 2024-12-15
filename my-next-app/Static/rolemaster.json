@@ -1,0 +1,52 @@
+[{
+  "id": "product",
+  "label": "Product",
+  "page": "Product",
+  "roles": [
+    "Admin",
+    "Guest"
+  ]
+},
+{
+  "id": "guest",
+  "label": "Guest",
+  "page": "Guest",
+  "roles": [
+    "Guest"
+  ]
+},
+{
+  "id": "quiz",
+  "label": "Quiz",
+  "page": "Quiz",
+  "roles": [
+    "Admin",
+    "User"
+  ]
+},
+{
+  "id": "inventory",
+  "label": "Inventory",
+  "page": "Inventory",
+  "roles": [
+    "Admin"
+  ]
+},
+{
+  "id": "profile",
+  "label": "Users",
+  "page": "Users",
+  "roles": [
+    "Admin",
+    "User",
+    "Editor"
+  ]
+},
+{
+  "id": "assignRole",
+  "label": "Roles",
+  "page": "Roles",
+  "roles": [
+    "Admin"
+  ]
+}]

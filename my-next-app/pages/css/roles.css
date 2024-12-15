@@ -1,0 +1,9 @@
+.roles-div {
+    .dropdown-button {
+        width: 200px;
+    }
+
+    .dropdown-menu {
+        width: 200px;
+    }
+}

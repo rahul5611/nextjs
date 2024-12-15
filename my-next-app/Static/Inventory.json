@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "product_name": "Laptop",
+        "quantity": 50
+    },
+    {
+        "id": "2",
+        "product_name": "Office Chair",
+        "quantity": 150
+    },
+    {
+        "id": "3",
+        "product_name": "Wireless Mouse",
+        "quantity": 300
+    },
+    {
+        "id": "4",
+        "product_name": "Notebook",
+        "quantity": 500
+    },
+    {
+        "product_id": "5",
+        "product_name": "External Hard Drive",
+        "quantity": 80
+    }
+]

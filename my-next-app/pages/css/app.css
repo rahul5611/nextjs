@@ -1,0 +1,15 @@
+.body-container {
+    font-family: "Lexend Deca", sans-serif;
+}
+
+button {
+    background-color: #ff5c35;
+    color: #fff;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+}
+
+body {
+    margin: 0px !important;
+}

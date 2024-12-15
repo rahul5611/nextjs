@@ -1,0 +1,48 @@
+.userform {
+    margin-left: 30px;
+    form {
+        max-width: 600px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        background: #f9f9f9;
+    }
+
+    .formContainer {
+
+        height: calc(100vh - 290px);
+        overflow-y: auto;
+    }
+
+    div.control {
+        margin-bottom: 10px;        
+        display: flex;
+    }
+
+    label {
+        display: block;
+        font-weight: bold;
+        margin-bottom: 5px;
+        width: 20%;
+    }
+
+    input,
+    textarea,
+    button {
+        min-width: 200px;
+        max-width: 450px;
+        padding: 8px;
+        margin: 5px 0;
+        box-sizing: border-box;
+    }
+
+    button {
+        width: 10%;
+        margin-right: 2%;
+    }
+
+    button:last-child {
+        margin-right: 0;
+    }
+}

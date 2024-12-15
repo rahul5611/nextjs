@@ -1,0 +1,14 @@
+.ellipes {
+    white-space: nowrap;
+    width: 18%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    /* border-left: 1px solid gray; */
+    /* border-right: 1px solid gray; */
+    text-align: left;
+    padding-left: 8px;
+}
+
+.even-dataContainer {
+    background-color: #a5ebd4;
+  }

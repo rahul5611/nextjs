@@ -1,0 +1,44 @@
+{
+    "questions" : [
+        {
+            "questionText": "What is the capital of France?",
+            "options": ["Paris", "London", "Berlin", "Madrid"],
+            "correctAnswer": "Paris"
+        },
+        {
+            "questionText": "What is 12 + 2?",
+            "options": ["3", "14", "15", "12"],
+            "correctAnswer": "14"
+        },
+        {
+            "questionText": "Who wrote 'Romeo and Juliet'?",
+            "options": ["William Shakespeare", "J.K. Rowling", "Mark Twain", "Charles Dickens"],
+            "correctAnswer": "William Shakespeare"
+        },
+        {
+            "questionText": "What is 2 + 2?",
+            "options": ["3", "4", "5", "6"],
+            "correctAnswer": "4"
+        },
+        {
+            "questionText": "What is the full form of CPU?",
+            "options": ["Computer Processing Unit", "Computer Principle Unit", "Central Processing Unit", " Control Processing Unit"],
+            "correctAnswer": "Central Processing Unit"
+        },
+        {
+            "questionText": "Which of the following is the smallest unit of data in a computer?",
+            "options": ["Bit", "KB", "Nibble", "Bytes"],
+            "correctAnswer": "Bit"
+        },
+        {
+            "questionText": "Which of the following devices provides the communication between a computer and the outer world?",
+            "options": ["Compact", "I/O", "Drivers", "Storage"],
+            "correctAnswer": "I/O"
+        },
+        {
+            "questionText": "Which of the following can access the server?",
+            "options": ["Web Client", "User", "Web Browser", "Web Server"],
+            "correctAnswer": "Web Client"
+        }
+    ]
+}
