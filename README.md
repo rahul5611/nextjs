@@ -8,7 +8,7 @@
 4. Mongodb
 
 
-   # To start with nextJS, Create a nextJS web application
+    **To start with nextJS**, Create a nextJS web application
      => npx create-next-app@latest nextjs
 
    **Note** -> In above command, **nextjs** is the name of application.
